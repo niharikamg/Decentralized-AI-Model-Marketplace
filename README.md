@@ -98,5 +98,4 @@ curl -X GET http://localhost:5000/models
 
 ---
 
-## 📜 License
-This project is licensed under the **MIT License**.
+
